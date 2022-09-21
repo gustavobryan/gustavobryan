@@ -1,6 +1,6 @@
 ## Olá, eu sou o Gustavo Bryan!
-- 🔭 Estudante de Front-End, em busca da primeira vaga.
-- 🌱 Estudando: JavaScript, Kotlin
+- 🔭 Estudante de programação, em busca da primeira vaga.
+- 🌱 Estudando: Java, Kotlin
 - 😄 Pronomes: ele/dele
 
 
