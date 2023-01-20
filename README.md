@@ -1,5 +1,5 @@
 ## Olá, eu sou o Gustavo Bryan!
-- 🔭 Desenvolvedor em busca daprimira vaga.
+- 🔭 Desenvolvedor em busca da primeira vaga.
 - 🌱 HTML, CSS, JAVASCRIPT
 
 
